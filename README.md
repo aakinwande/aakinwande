@@ -5,6 +5,8 @@
 
 - 👯 I’m looking to collaborate **with other software engineers**
 
+- 😊Pronouns: **He/Him**
+
 - 📫 How to reach me **akinwandealameen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
