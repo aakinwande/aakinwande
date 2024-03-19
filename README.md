@@ -23,11 +23,11 @@
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sql" width="40" height="40"/>
     </a>
-    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-plain-wordmark.svg" alt="tableau" width="40" height="40"/>
+     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/>
     </a>
-    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-plain-wordmark.svg" alt="powerbi" width="40" height="40"/>
+   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/>
     </a>
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
