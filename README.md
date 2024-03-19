@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Al-Ameen Akinwande</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A Data Analyst from Nigeria</h3>
 
-- 🌱 I’m currently learning **React js, Next js**
+- 🌱 I’m currently learning **Python, Machine Learning**
 
-- 👯 I’m looking to collaborate **with other software engineers**
+- 👯 I’m looking to collaborate **with other Data Analyst**
 
 - 😊Pronouns: **He/Him**
 
