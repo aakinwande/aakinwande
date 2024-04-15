@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Al-Ameen Akinwande</h1>
 <h3 align="center">A Data Analyst from Nigeria</h3>
 
-- 🌱 A Data analyst proficient in tools such as Python, R, SQL, and Tableau, passionate about leveraging data for insightful decision-making.
+- 🌱 A Data analyst proficient in tools such as Python, SQL, PowerBi and Tableau, passionate about leveraging data for insightful decision-making.
 
 - 👯 Exploring opportunities in the realm of data analysis, with the goal of using my expertise in a variety of tools and languages to support informed decisions.
 
